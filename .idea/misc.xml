@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../layout/compose-model-1661373475443.xml" value="0.165" />
+        <entry key="../../../../layout/compose-model-1661380451215.xml" value="0.375" />
+        <entry key="../../../../layout/compose-model-1661381450842.xml" value="0.335" />
+        <entry key="../../../../layout/compose-model-1661381960308.xml" value="0.13597972972972974" />
+        <entry key="../../../../layout/compose-model-1661382548443.xml" value="0.375" />
+        <entry key="../../../../layout/compose-model-1661793898864.xml" value="0.2684157416750757" />
+        <entry key="../../../../layout/compose-model-1661794508944.xml" value="0.125" />
+        <entry key="../../../../layout/compose-model-1661808371288.xml" value="0.55" />
+        <entry key="../../../../layout/compose-model-1661808666285.xml" value="1.0" />
+        <entry key="../../../../layout/compose-model-1661810087602.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_cloudy.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_pressure.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_sunny.xml" value="0.1365" />
+        <entry key="app/src/main/res/drawable/ic_sunnycloudy.xml" value="0.1365" />
+      </map>
+    </option>
+  </component>
+  <component name="EntryPointsManager">
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="dagger.Binds" />
+    </list>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
